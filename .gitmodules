@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "lattice"]
 	path = lattice
 	url = https://github.com/deepayan/lattice
-	shallow = true
-	registered = true
