@@ -8,3 +8,7 @@
 [submodule "latticeExtra"]
 	path = latticeExtra
 	url = https://github.com/deepayan/latticeextra
+[submodule "rip.opencv"]
+	path = rip.opencv
+	url = https://github.com/deepayan/rip
+	subdir = rip.opencv
